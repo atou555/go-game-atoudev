@@ -9,6 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@radix-ui/react-direction": "^1.0.1",
+    "@radix-ui/react-navigation-menu": "^1.1.4",
+    "@windmill/react-ui": "^0.6.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "lucide-react": "^0.379.0",
